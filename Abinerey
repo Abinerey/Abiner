@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Abiner Calling App: Fast, Cheap Calls to Eritrea</title>
+  <link rel="stylesheet" href="style.css"> </head>
+<body>
+
+ <h1>Abiner Calling App</h1>
+ <h2>Affordable and Reliable Calls Back Home to Eritrea </h2>  
+ <p>Connect Easily with Family and Friends</p> 
+
+ <div class="price-list">
+  <p>15 min - 7 Ugandan shillings</p> 
+  <p>30 min - 14 Ugandan shillings</p> 
+  <p>1hr - 28 Ugandan shillings</p> 
+ </div>
+
+ <a href="tel:+256744252503" class="call-link">Call Now</a> 
+
+ <p style="margin-top: 30px; font-size: 14px;">
+   The Abiner Calling App: Your Gateway to Eritrea 
+ </p>
+
+</body>
+</html>
